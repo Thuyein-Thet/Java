@@ -78,3 +78,27 @@ Java Control Statements
     continue statement
 
 
+Comment
+-------
+Single line comment in java
+
+   //This is a sample of sample line comment in java
+
+Multiline comment in java
+
+   /*
+   This is a sample of multiline comment in java
+   This is a sample of multiline comment in java
+   This is a sample of multiline comment in java
+   This is a sample of multiline comment in java
+   */
+
+Documentation comment
+
+   /**  
+   * 
+   *We can use various tags to depict the parameter 
+   *or heading or author name    
+   *We can also use HTML tags   
+   * 
+   */    
