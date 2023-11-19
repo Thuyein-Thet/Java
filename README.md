@@ -34,3 +34,28 @@ The non-primitive data types include Classes, Interfaces, and Arrays.
 
 
 **Java is a statically-typed programming language. It means, all variables must be declared before its use. That is why we need to declare variable's type and name.**
+
+
+Operators in Java
+-----------------
+Unary Operator,
+Arithmetic Operator,
+Shift Operator,
+Relational Operator,
+Bitwise Operator,
+Logical Operator,
+Ternary Operator and
+Assignment Operator.
+
+
+Logical && and Bitwise &
+------------------------
+Btwise & operator check both condition.
+Logical && operator check second condition if only the first one is true.
+
+Logical || and Bitwise |
+------------------------
+Btwise | operator check both condition.
+Logical || operator check second condition if only the first one is false.
+
+
