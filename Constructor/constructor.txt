@@ -1,0 +1,34 @@
+rules for creating java constructor
+-----------------------------------
+Constructor name = class name
+A Constructor have no explicit return type
+A constructor cannot be abstract, static, final, and synchronized
+
+**We can use access modifiers while declaring a constructor**
+
+Types of java constructors
+--------------------------
+
+(1) Default constructor (no-arg constructor)
+*********************************************
+What is the purpose of a default constructor?
+The default constructor is used to provide the default values to the object like 0, null, etc., depending on the type.
+*********************************************
+
+(2) Parameterized constructor
+****************************************
+Why use the parameterized constructor?
+The parameterized constructor is used to provide different values to distinct objects. However, you can provide the same values also.
+****************************************
+
+***Constructor Overloading***
+-----------------------------
+Constructor overloading in Java is a technique of having more than one constructor with different parameter lists
+
+Java Copy Constructor
+---------------------
+There is no copy constructor in java. But can copy from one object to another like copy constructor in C++
+Ways to copy:
+(1) By constructor
+(2) By assigning the values of one object into another
+(3) By clone() method of Object class

@@ -4,3 +4,10 @@ Three types to initialize Object
 (2)By method
 (3)By constructor
 
+Others way to create Object
+---------------------------
+By new keyword
+By newInstance() method
+By clone() method
+By deserialization
+By factory method etc
