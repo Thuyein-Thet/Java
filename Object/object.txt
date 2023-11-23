@@ -1,0 +1,6 @@
+Three types to initialize Object
+--------------------------------
+(1)By reference variable
+(2)By method
+(3)By constructor
+
