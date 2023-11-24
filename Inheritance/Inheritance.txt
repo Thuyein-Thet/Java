@@ -1,0 +1,32 @@
+Inheritance
+------------
+-a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).
+-Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
+
+*********************
+Why use Inheritance?
+*********************
+For Method Overriding (so runtime polymorphism can be achieved).
+For Code Reusability.
+*********************
+
+Syntax
+------
+
+class Subclass-name extends Superclass-name  
+{  
+   //methods and fields  
+}  
+
+
+Types of Inheritance
+--------------------
+(1) Single
+(2) Multilevel (not Multiple)
+(3) Hierarchical
+***multiple and hybrid inheritance is supported through interface only***
+
+--------------------------------------------------
+Why multiple inheritance is not supported in java?
+--------------------------------------------------
+To reduce the complexity and simplify the language
