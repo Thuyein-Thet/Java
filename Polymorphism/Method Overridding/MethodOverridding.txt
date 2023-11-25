@@ -1,0 +1,25 @@
+Method Overridding
+------------------
+If subclass (child class) has the same method as declared in the parent class, it is known as method overriding in Java.
+
+Usage
+-----
+used to provide the specific implementation of a method which is already provided by its superclass.
+used for runtime polymorphism
+
+*****
+Rules
+*****
+(1) The method must have the same name as in the parent class
+(2) The method must have the same parameter as in the parent class.
+(3) There must be an IS-A relationship (inheritance).
+*****
+
+***A Static method cannot be override.***
+------------------------------------------
+It is because the static method is bound with class whereas instance method is bound with an object. Static belongs to the class area, and an instance belongs to the heap area.
+------------------------------------------
+
+
+
+
