@@ -1,0 +1,11 @@
+Polymorphism
+------------
+Polymorphism in Java is a concept by which we can perform a single action in different ways. Polymorphism is derived from 2 Greek words: poly and morphs. The word "poly" means many and "morphs" means forms. So polymorphism means many forms.
+two types: (1) Compiletime polymorphism
+           (2) Runtime polymorphism
+
+Runtime Polymorphism
+--------------------
+a process in which a call to an overridden method is resolved at runtime rather than compile-time.
+
+***Runtime Polymorphism can't be achieved by data member***
