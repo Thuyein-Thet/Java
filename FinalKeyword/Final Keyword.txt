@@ -1,0 +1,25 @@
+Final Keyword
+-------------
+used to restrict the user
+(1) variable
+(2) method
+(3) class
+
+*****************
+Final== Constant 
+Can't be changed
+*****************
+
+
+Can we initialize blank final variable?
+******************************************
+Yes, but only in constructor.
+
+
+static blank final variable
+****************************
+A static final variable that is not initialized at the time of declaration is known as static blank final variable. It can be initialized only in static block.
+
+final parameter (in method or something)
+****************************************
+If you declare any parameter as final, you cannot change the value of it.
