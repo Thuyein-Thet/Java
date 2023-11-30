@@ -1,0 +1,11 @@
+(1) Static-Binding (aka) early Binding
+(2) Dynamic-Binding (aka) late Binding
+
+Static Binding
+--------------
+When type of the object is determined at compiled time(by the compiler), it is known as static binding.
+If there is any private, final or static method in a class, there is static binding.
+
+Dynamic Binding
+---------------
+When type of the object is determined at run-time, it is known as dynamic binding.
