@@ -1,0 +1,49 @@
+Interface
+---------
+An interface in java is a blueprint of a class. It has static constants and abstract methods.
+The interface in java is a mechanism to achieve abstraction.
+There can be only abstract methods in the java interface, not method body.
+It is used to achieve abstraction and multiple inheritance in Java.
+In other words, you can sat that interfaces can have abstract methods and variables.
+It cannot have a method body.
+Java Interface also represents the IS-A relationship.
+
+Why use Interface?
+------------------
+Three Reasons:
+(1) To achieve abstraction
+(2) By Interface, can support the functionality of multiple inheritance
+(3) To achieve loose coupling
+
+Syntax:
+
+    interface <interface_name>{  
+      
+    // declare constant fields  
+    // declare methods that abstract   
+    // by default.  
+    }  
+
+***************************
+class extends class
+class implements interface
+interface extends interface
+***************************
+
+Marker or Tagged Interface
+--------------------------
+An interface which has no member is known as a marker or tagged interface.
+For example, Serializable, Cloneable, Remote, etc.
+They are used to provide some essential information to the JVM so JVM may perform some useful operation.
+
+Nested Interface in Java
+------------------------
+An interface can have another interface which is known ass a nested interface.
+
+    interface printable{
+        void print();
+        interface MessagePrintable{
+            void msg();
+        }
+    }
+
