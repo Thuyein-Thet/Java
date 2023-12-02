@@ -1,0 +1,21 @@
+Java Package
+------------
+A java package is a group of similar types of classes, interfaces and sub-packages.
+Package in java can be categorized in two form, built-in-package and user-defined package.
+
+Advantage of Java Package
+-------------------------
+(1) To categorize the classes and interfaces so that they can be easily maaintained.
+(2) Java Package provides access protection.
+(3) Java Package removes naming collision.
+
+Three ways to access the package
+--------------------------------
+(1) Import package.*
+(2) Import package.classname
+(3) fully qualified name
+
+Subpackage in Java
+------------------
+Package inside the package is called the Subpackage. 
+It should be categorize the package further.
